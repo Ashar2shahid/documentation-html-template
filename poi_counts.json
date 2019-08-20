@@ -1,0 +1,362 @@
+{
+  "name": "dataVis",
+  "children": [
+    {
+      "name": "APPARELS",
+      "children": [
+        {
+          "name": "Clothing Stores",
+          "size": "9484"
+        },
+        {
+          "name": "Jewelry Stores",
+          "size": "799"
+        },
+        {
+          "name": "Tailors & Clothes Boutiques",
+          "size": "133"
+        }
+      ]
+    },
+    {
+      "name": "Building & Home Care",
+      "children": [
+        {
+          "name": "FURNITURE STORE",
+          "size": "8115"
+        },
+        {
+          "name": "Hardware Stores",
+          "size": "63"
+        },
+        {
+          "name": "Other Building Materials Stores",
+          "size": "170"
+        }
+      ]
+    },
+    {
+      "name": "Education' Hobbys' Craft' Toys",
+      "children": [
+        {
+          "name": "Book Stores",
+          "size": "944"
+        },
+        {
+          "name": "Gift and Souvenir Stores",
+          "size": "133"
+        },
+        {
+          "name": "SCHOOL/UNIVERSITY",
+          "size": "19982"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment & Hospitality",
+      "children": [
+        {
+          "name": "Airport",
+          "size": "12"
+        },
+        {
+          "name": "Animal Store",
+          "size": "176"
+        },
+        {
+          "name": "Bakeries",
+          "size": "614"
+        },
+        {
+          "name": "Chocolate Shops",
+          "size": "381"
+        },
+        {
+          "name": "Drinking Places' Caf\u00c3\u00a9s (Tea/Coffee Rooms)",
+          "size": "10030"
+        },
+        {
+          "name": "FOOD OUTLETS",
+          "size": "34156"
+        },
+        {
+          "name": "HOTELS / FURNISHED APTs",
+          "size": "13149"
+        },
+        {
+          "name": "Park",
+          "size": "58"
+        },
+        {
+          "name": "PARK",
+          "size": "2318"
+        },
+        {
+          "name": "Quick Service Restaurants / Fast Foods",
+          "size": "1483"
+        },
+        {
+          "name": "Sandwich Shops (Boofia)",
+          "size": "20600"
+        },
+        {
+          "name": "ZOO",
+          "size": "6"
+        }
+      ]
+    },
+    {
+      "name": "Food & Groceries",
+      "children": [
+        {
+          "name": "Convenience Stores",
+          "size": "221"
+        },
+        {
+          "name": "Fruit and Vegetable Markets",
+          "size": "570"
+        },
+        {
+          "name": "Grocery Stores",
+          "size": "33030"
+        },
+        {
+          "name": "HYPERMKT",
+          "size": "366"
+        },
+        {
+          "name": "Ice Cream",
+          "size": "533"
+        },
+        {
+          "name": "Laundry Shops",
+          "size": "1606"
+        },
+        {
+          "name": "SUPERMKT",
+          "size": "11440"
+        }
+      ]
+    },
+    {
+      "name": "Govt. & Com Serv",
+      "children": [
+        {
+          "name": "ATM\u00e2\u20ac\u2122s",
+          "size": "8237"
+        },
+        {
+          "name": "BANKS",
+          "size": "2275"
+        },
+        {
+          "name": "Government Office",
+          "size": "328"
+        },
+        {
+          "name": "Insurance ",
+          "size": "151"
+        },
+        {
+          "name": "Money Exchangers",
+          "size": "2050"
+        },
+        {
+          "name": "MOSQUE",
+          "size": "15341"
+        },
+        {
+          "name": "Police Station",
+          "size": "101"
+        },
+        {
+          "name": "Postal Office",
+          "size": "2"
+        },
+        {
+          "name": "Travel Agency",
+          "size": "397"
+        }
+      ]
+    },
+    {
+      "name": "Healthy & Beauty Care",
+      "children": [
+        {
+          "name": "Barber Shops",
+          "size": "4354"
+        },
+        {
+          "name": "CLINICS",
+          "size": "7754"
+        },
+        {
+          "name": "Cosmetics and Beauty Stores",
+          "size": "107"
+        },
+        {
+          "name": "GYM",
+          "size": "2040"
+        },
+        {
+          "name": "HOSPITAL",
+          "size": "2412"
+        },
+        {
+          "name": "Nutrition & Organic Supplements",
+          "size": "270"
+        },
+        {
+          "name": "Optical Goods Stores",
+          "size": "962"
+        },
+        {
+          "name": "Other Health and Personal Care Stores",
+          "size": "1229"
+        },
+        {
+          "name": "Pharmacy and Drug Stores",
+          "size": "5960"
+        },
+        {
+          "name": "Physiotherapy Centers",
+          "size": "136"
+        },
+        {
+          "name": "Sports & Activities Centers",
+          "size": "201"
+        }
+      ]
+    },
+    {
+      "name": "Misc. & Others",
+      "children": [
+        {
+          "name": "Cemetery",
+          "size": "76"
+        },
+        {
+          "name": "Department Stores",
+          "size": "715"
+        },
+        {
+          "name": "Developers and constructers ",
+          "size": "155"
+        },
+        {
+          "name": "Factory",
+          "size": "2108"
+        },
+        {
+          "name": "MISC",
+          "size": "18727"
+        },
+        {
+          "name": "Other Direct Selling Establishments",
+          "size": "4753"
+        },
+        {
+          "name": "Parking",
+          "size": "135"
+        },
+        {
+          "name": "Warehouse Superstores",
+          "size": "1192"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTY ",
+      "children": [
+        {
+          "name": "Shop in Open Center / Street Mall",
+          "size": "6968"
+        },
+        {
+          "name": "SHOPPING MALL",
+          "size": "564"
+        }
+      ]
+    },
+    {
+      "name": "Telecom' Electronics' PCs",
+      "children": [
+        {
+          "name": "Appliances & Electronics Stores",
+          "size": "6576"
+        },
+        {
+          "name": "Computer Stores",
+          "size": "425"
+        },
+        {
+          "name": "Telecom Provider Outlets",
+          "size": "271"
+        }
+      ]
+    },
+    {
+      "name": "Transport Depots",
+      "children": [
+        {
+          "name": "Bus Stands",
+          "size": "37"
+        },
+        {
+          "name": "Railway Stations",
+          "size": "1"
+        }
+      ]
+    },
+    {
+      "name": "VEHICLES",
+      "children": [
+        {
+          "name": "Auto Mechanic / Body Repair Shops",
+          "size": "1"
+        },
+        {
+          "name": "Auto Parts and Accessories",
+          "size": "167"
+        },
+        {
+          "name": "Car Dealers",
+          "size": "1488"
+        },
+        {
+          "name": "Car Wash & Detailing",
+          "size": "901"
+        },
+        {
+          "name": "Oil Change & General Auto Service",
+          "size": "8074"
+        },
+        {
+          "name": "RENT CAR",
+          "size": "611"
+        },
+        {
+          "name": "Used Car Dealers",
+          "size": "150"
+        }
+      ]
+    },
+    {
+      "name": "Water & Fuel",
+      "children": [
+        {
+          "name": "Gas Cylinder Stations",
+          "size": "36"
+        },
+        {
+          "name": "PETROL PUMPS",
+          "size": "5493"
+        },
+        {
+          "name": "Water Refill Stations & Bottling",
+          "size": "126"
+        }
+      ]
+    }
+  ]
+}
